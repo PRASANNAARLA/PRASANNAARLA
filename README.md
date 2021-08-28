@@ -4,9 +4,9 @@
 
 ## My current courses are: ##
 
-1.Patterns and Frameworks
-2.Mobile Computiing-iOS
-3.Graduate Direct Project
+1. Patterns and Frameworks
+2. Mobile Computiing-iOS
+3. Graduate Direct Project
 
 ## Area of Intrests ##
 1. I am instrested in Programming, Data Structures, Artificial Intelligence.
